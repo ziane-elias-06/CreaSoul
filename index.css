@@ -18,11 +18,10 @@ header
 a {
 	color: #49B2B4;
 	text-decoration: none;
-	-webkit-transition: all 0.2s ease 0s;
-	transition: all 0.2s ease 0s;
+	
 }
 a:hover{
-
+        background-color:#30a894be;
 }
 
 nav a {
@@ -32,7 +31,7 @@ nav a {
     font-size: 5rem;
     font-family: "PT sans Narrow";
     text-decoration: none;
-    background-color: #30A894;
+    background-color: #299281;
 }
 
 nav
@@ -53,6 +52,11 @@ h1
 {
     font-size: 7.5rem;
     text-align: center;
+}
+h2
+{
+font-size:6.5rem;
+text-align: center;
 }
 p
 {
