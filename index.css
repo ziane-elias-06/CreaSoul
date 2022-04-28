@@ -77,3 +77,14 @@ img {
     margin: 20px;
 
 }
+
+
+/* VERSION TABLETTE */
+
+@media screen and (min-width: 768px)
+{
+    section, aside {
+		display: block;
+		padding: 25px;
+	}
+}
