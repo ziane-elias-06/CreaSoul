@@ -1,22 +1,35 @@
 body{
     background-color:#F2F1F4 ;
+    font-family: "Open sans", Arial;
+    color: #6a6d70;
+    font-size: 1.35rem;
+    line-height: 1.8;
+    margin: 50px;
 }
 header
 {
     text-align: center;
-    margin-top: 75px;
-    margin: 25px;
+    
 }
 .logo-crea
 {
-    width: 520px;
+    width: 600px;
+}
+a {
+	color: #49B2B4;
+	text-decoration: none;
+	-webkit-transition: all 0.2s ease 0s;
+	transition: all 0.2s ease 0s;
+}
+a:hover{
+
 }
 
 nav a {
     display:block;
     color: white;
-    padding: 12px;
-    font-size: 1.6rem;
+    padding: 70px;
+    font-size: 5rem;
     font-family: "PT sans Narrow";
     text-decoration: none;
     background-color: #30A894;
@@ -24,5 +37,37 @@ nav a {
 
 nav
 {
+    
     background-color:#30A894 ;
+}
+h1, h2
+{
+    font-family: "PT sans Narrow";
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom:2px solid #30A894;
+    color: #30A894;
+    
+}
+h1
+{
+    font-size: 7.5rem;
+    text-align: center;
+}
+p
+{
+    
+    margin-top: 30px;
+}
+    
+article
+{
+    display: block;
+
+}
+img
+{
+        max-width: 100%;
+        margin: 20px;
+    
 }
