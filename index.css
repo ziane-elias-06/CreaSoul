@@ -1,31 +1,33 @@
-body{
-    background-color:#F2F1F4 ;
+body {
+    background-color: #F2F1F4;
     font-family: "Open sans", Arial;
     color: #6a6d70;
     font-size: 1.35rem;
     line-height: 2;
     margin: 50px;
 }
-header
-{
+
+header {
     text-align: center;
-    
+
 }
-.logo-crea
-{
+
+.logo-crea {
     width: 600px;
 }
+
 a {
-	color: #49B2B4;
-	text-decoration: none;
-	
+    color: #49B2B4;
+    text-decoration: none;
+
 }
-a:hover{
-        background-color:#30a894be;
+
+a:hover {
+    background-color: #30a894be;
 }
 
 nav a {
-    display:block;
+    display: block;
     color: white;
     padding: 50px;
     font-size: 5rem;
@@ -34,45 +36,44 @@ nav a {
     background-color: #299281;
 }
 
-nav
-{
-    
-    background-color:#30A894 ;
+nav {
+
+    background-color: #30A894;
 }
-h1, h2
-{
+
+h1,
+h2 {
     font-family: "PT sans Narrow";
     font-weight: normal;
     text-transform: uppercase;
-    border-bottom:2px solid #30A894;
+    border-bottom: 2px solid #30A894;
     color: #30A894;
-    
+
 }
-h1
-{
+
+h1 {
     font-size: 7.5rem;
     text-align: center;
 }
-h2
-{
-font-size:6.5rem;
-text-align: center;
+
+h2 {
+    font-size: 6.5rem;
+    text-align: center;
 }
-p
-{
-    margin:50px 0;
+
+p {
+    margin: 50px 0;
     margin-top: -80px;
     font-size: 2rem;
 }
-    
-article
-{
+
+article {
     display: block;
 
 }
-img
-{
-        max-width: 100%;
-        margin: 20px;
-    
+
+img {
+    max-width: 100%;
+    margin: 20px;
+
 }
